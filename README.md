@@ -85,8 +85,8 @@ São acessadas por meio de Endpoints, que são as URLs nas quais são feitas as 
 - [/cities](https://citiesapi-israel.heroku.com/api/v1/cities)
 
 
-- [/distance/by-points - Distância entre pontos (milhas)](https://citiesapi-israel.heroku.com/api/v1/distance/by-points?from=4929&to=5254)
-- [/distance/by-cube - Distância entre pontos (metros)](https://citiesapi-israel.heroku.com/api/v1/distance/by-cube?from=4929&to=5254)
+- [/distance/by-points - Distância entre pontos (milhas)](https://citiesapi-israel.herokuapp.com/api/v1/distance/by-points?from=616&to=318)
+- [/distance/by-cube - Distância entre pontos (metros)](https://citiesapi-israel.herokuapp.com/api/v1/distance/by-cube?from=616&to=318)
 
 ---
 
